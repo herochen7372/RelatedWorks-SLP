@@ -27,6 +27,6 @@ I am gathering these papers as literature for my PhD, and thought others may be 
 - Mixed SIGNals: Sign Language Production via a Mixture of Motion Primitives. [ICCV-ccfa][[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Saunders_Mixed_SIGNals_Sign_Language_Production_via_a_Mixture_of_Motion_ICCV_2021_paper.pdf)]
 
 ## Sign Avater
-SignAvatars: A Large-scale 3D Sign Language Holistic Motion Dataset and Benchmark. [ECCV-ccfb][[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00653.pdf)]
+- SignAvatars: A Large-scale 3D Sign Language Holistic Motion Dataset and Benchmark. [ECCV-ccfb][[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00653.pdf)]
 
 
