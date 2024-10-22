@@ -58,3 +58,9 @@ Ham2Pose: Animating Sign Language Notation into Pose Sequences. [CVPR-ccba][[Pap
 
 
 
+
+# Reference
+[1] https://github.com/BenSaunders27/Awesome-SLP
+[2] https://github.com/VIPL-SLP/awesome-sign-language-processing
+
+
