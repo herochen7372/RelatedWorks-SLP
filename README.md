@@ -10,6 +10,7 @@ I am gathering these papers as literature for my PhD, and thought others may be 
 - SignGen: End-to-End Sign Language Video Generation with Latent Diffusion. [ECCV-ccfb][[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06988.pdf)]
 - T2S-GPT: Dynamic Vector Quantization for Autoregressive Sign Language Production from Text. [ACL-ccfa][[Paper](https://aclanthology.org/2024.acl-long.183.pdf)]
 - MS2SL: Multimodal Spoken Data-Driven Continuous Sign Language Production. [ACL-ccba][[Paper](https://aclanthology.org/2024.findings-acl.432.pdf)]
+- Unsupervised Sign Language Translation and Generation [ACL-ccba][[Paper](https://arxiv.org/pdf/2402.07726)][[Code](https://github.com/ZhengshengGuo/USLNet)]
 - Semantic-driven diffusion for sign language production with gloss-pose latent spaces alignment. [CVIU-ccfb][[Paper](https://linkinghub.elsevier.com/retrieve/pii/S1077314224001310)] 
 - Sign Language Production With Latent Motion Transformer.[WACV 2024][[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Xie_Sign_Language_Production_With_Latent_Motion_Transformer_WACV_2024_paper.pdf)]
 
