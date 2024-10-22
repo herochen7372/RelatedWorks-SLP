@@ -3,7 +3,6 @@ A list of excellent works on various stages of Sign Language Production (SLP) (a
 
 I am gathering these papers as literature for my PhD, and thought others may be interested. If you have any updates, please feel free to contribute or email me at [2021111446@mail.hfut.edu.cn](2021111446@mail.hfut.edu.cn).
 
-[ACL-ccba][[Paper]()]
 
 ## Sign Language Production
 ### 2024
