@@ -5,12 +5,12 @@ I am gathering these papers as literature for my PhD, and thought others may be 
 
 
 # 2024
-Semantic-driven diffusion for sign language production with gloss-pose latent spaces alignment. [CVIU-ccfb][Paper](https://linkinghub.elsevier.com/retrieve/pii/S1077314224001310) 
+Semantic-driven diffusion for sign language production with gloss-pose latent spaces alignment. [CVIU-ccfb][[Paper](https://linkinghub.elsevier.com/retrieve/pii/S1077314224001310)] 
 
 
 
 # 2022
-Modeling Intensification for Sign Language Generation: A Computational Approach. [ACL-ccfa][Paper](https://arxiv.org/pdf/2203.09679)[Code](https://github.com/Merterm/Modeling-Intensification-for-SLG)
+Modeling Intensification for Sign Language Generation: A Computational Approach. [ACL-ccfa][[Paper](https://arxiv.org/pdf/2203.09679)[Code](https://github.com/Merterm/Modeling-Intensification-for-SLG)]
 
 
 
