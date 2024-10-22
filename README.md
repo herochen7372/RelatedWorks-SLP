@@ -7,7 +7,6 @@ I am gathering these papers as literature for my PhD, and thought others may be 
 
 ## Sign Language Production
 ### 2024
-- A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars. [ECCV-ccfb][[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06499.pdf)]
 - Pose Guided Fine-Grained Sign Language Video Generation. [ECCV-ccfb][[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09947.pdf)]
 - SignGen: End-to-End Sign Language Video Generation with Latent Diffusion. [ECCV-ccfb][[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06988.pdf)]
 - T2S-GPT: Dynamic Vector Quantization for Autoregressive Sign Language Production from Text. [ACL-ccfa][[Paper](https://aclanthology.org/2024.acl-long.183.pdf)]
@@ -43,6 +42,7 @@ I am gathering these papers as literature for my PhD, and thought others may be 
 ### 2024
 - Neural Sign Actors: A diffusion model for 3D sign language production from text. [CVPR-ccba][[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Baltatzis_Neural_Sign_Actors_A_Diffusion_Model_for_3D_Sign_Language_CVPR_2024_paper.pdf)]
 - SignAvatars: A Large-scale 3D Sign Language Holistic Motion Dataset and Benchmark. [ECCV-ccfb][[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00653.pdf)]
+- A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars. [ECCV-ccfb][[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06499.pdf)]
 - SignAvatar: Sign Language 3D Motion Reconstruction and Generation. [ICAFGR-ccbc][[Paper](https://arxiv.org/pdf/2405.07974)]
 - A Comparative Study of Video-Based Human Representations for American Sign Language Alphabet Generation [ICAFGR-ccbc][[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10582020)]
 
