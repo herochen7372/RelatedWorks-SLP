@@ -12,7 +12,6 @@ I am gathering these papers as literature for my PhD, and thought others may be 
 - MS2SL: Multimodal Spoken Data-Driven Continuous Sign Language Production. [ACL-ccba][[Paper](https://aclanthology.org/2024.findings-acl.432.pdf)]
 - Unsupervised Sign Language Translation and Generation [ACL-ccba][[Paper](https://arxiv.org/pdf/2402.07726)][[Code](https://github.com/ZhengshengGuo/USLNet)]
 - Semantic-driven diffusion for sign language production with gloss-pose latent spaces alignment. [CVIU-ccfb][[Paper](https://linkinghub.elsevier.com/retrieve/pii/S1077314224001310)]
-- Jointly Harnessing Prior Structures and Temporal Consistency for Sign Language Video Generation [TOMM-ccfb][[Paper](https://dl.acm.org/doi/pdf/10.1145/3648368)]
 - Sign Language Production With Latent Motion Transformer.[WACV 2024][[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Xie_Sign_Language_Production_With_Latent_Motion_Transformer_WACV_2024_paper.pdf)]
 
 
@@ -61,7 +60,11 @@ I am gathering these papers as literature for my PhD, and thought others may be 
 
 
 ## Other SLP Topic
-Ham2Pose: Animating Sign Language Notation into Pose Sequences. [CVPR-ccfa][[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Arkushin_Ham2Pose_Animating_Sign_Language_Notation_Into_Pose_Sequences_CVPR_2023_paper.pdf)]
+### 2024
+- Jointly Harnessing Prior Structures and Temporal Consistency for Sign Language Video Generation [TOMM-ccfb][[Paper](https://dl.acm.org/doi/pdf/10.1145/3648368)]
+
+### 2023
+- Ham2Pose: Animating Sign Language Notation into Pose Sequences. [CVPR-ccfa][[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Arkushin_Ham2Pose_Animating_Sign_Language_Notation_Into_Pose_Sequences_CVPR_2023_paper.pdf)]
 
 ### 2021
 - ANONYSIGN: Novel Human Appearance Synthesis for Sign Language Video Anonymisation [ICAFGR-ccbc][[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9666984)]
