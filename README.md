@@ -12,9 +12,13 @@ I am gathering these papers as literature for my PhD, and thought others may be 
 - MS2SL: Multimodal Spoken Data-Driven Continuous Sign Language Production. [ACL-ccba][[Paper](https://aclanthology.org/2024.findings-acl.432.pdf)]
 - Unsupervised Sign Language Translation and Generation [ACL-ccba][[Paper](https://arxiv.org/pdf/2402.07726)][[Code](https://github.com/ZhengshengGuo/USLNet)]
 - Semantic-driven diffusion for sign language production with gloss-pose latent spaces alignment. [CVIU-ccfb][[Paper](https://linkinghub.elsevier.com/retrieve/pii/S1077314224001310)]
+- Multi-Channel Spatio-Temporal Transformer for Sign Language Production. [LREC-ccfb][[Paper](https://aclanthology.org/2024.lrec-main.1022.pdf)]
+- Attentional bias for hands: Cascade dual‐decoder transformer for sign language production [IETCV-ccfc][[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/cvi2.12273)]
+- Select and Reorder: A Novel Approach for Neural Sign Language Production. [LREC-ccfb][[Paper](https://www.semanticscholar.org/reader/e2a56a27010a60fb9820c94adf8e361633d27fe1)] 
 - Sign Language Production With Latent Motion Transformer.[WACV 2024][[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Xie_Sign_Language_Production_With_Latent_Motion_Transformer_WACV_2024_paper.pdf)]
 
-
+### 2023
+- SignNet: Single Channel Sign Generation using Metric Embedded Learning. [ICAFGR-ccbc][[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10042711)]
 
 ### 2022
 - Signing at Scale: Learning to Co-Articulate Signs for Large-Scale Photo-Realistic Sign Language Production. [CVPR-ccfa][[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Saunders_Signing_at_Scale_Learning_to_Co-Articulate_Signs_for_Large-Scale_Photo-Realistic_CVPR_2022_paper.pdf)]
@@ -49,6 +53,7 @@ I am gathering these papers as literature for my PhD, and thought others may be 
 - A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars. [ECCV-ccfb][[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06499.pdf)]
 - SignAvatar: Sign Language 3D Motion Reconstruction and Generation. [ICAFGR-ccbc][[Paper](https://arxiv.org/pdf/2405.07974)]
 - A Comparative Study of Video-Based Human Representations for American Sign Language Alphabet Generation. [ICAFGR-ccbc][[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10582020)]
+- SynthSL: Expressive Humans for Sign Language Image Synthesis [ICAFGR-ccbc][[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10582038)]
 
 
 ### 2023
