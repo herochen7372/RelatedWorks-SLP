@@ -6,11 +6,11 @@ I am gathering these papers as literature for my PhD, and thought others may be 
 
 ## Sign Language Production
 ### 2024
-- Pose Guided Fine-Grained Sign Language Video Generation. [ECCV-ccfb][[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09947.pdf)]
-- SignGen: End-to-End Sign Language Video Generation with Latent Diffusion. [ECCV-ccfb][[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06988.pdf)]
 - T2S-GPT: Dynamic Vector Quantization for Autoregressive Sign Language Production from Text. [ACL-ccfa][[Paper](https://aclanthology.org/2024.acl-long.183.pdf)]
 - MS2SL: Multimodal Spoken Data-Driven Continuous Sign Language Production. [ACL-ccba][[Paper](https://aclanthology.org/2024.findings-acl.432.pdf)]
 - Unsupervised Sign Language Translation and Generation [ACL-ccba][[Paper](https://arxiv.org/pdf/2402.07726)][[Code](https://github.com/ZhengshengGuo/USLNet)]
+- Pose Guided Fine-Grained Sign Language Video Generation. [ECCV-ccfb][[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09947.pdf)]
+- SignGen: End-to-End Sign Language Video Generation with Latent Diffusion. [ECCV-ccfb][[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06988.pdf)]
 - Semantic-driven diffusion for sign language production with gloss-pose latent spaces alignment. [CVIU-ccfb][[Paper](https://linkinghub.elsevier.com/retrieve/pii/S1077314224001310)]
 - Multi-Channel Spatio-Temporal Transformer for Sign Language Production. [LREC-ccfb][[Paper](https://aclanthology.org/2024.lrec-main.1022.pdf)]
 - Attentional bias for hands: Cascade dual‐decoder transformer for sign language production [IETCV-ccfc][[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/cvi2.12273)]
