@@ -66,7 +66,8 @@ I am gathering these papers as literature for my PhD, and thought others may be 
 
 ## Other SLP Topic
 ### 2024
-- Jointly Harnessing Prior Structures and Temporal Consistency for Sign Language Video Generation [TOMM-ccfb][[Paper](https://dl.acm.org/doi/pdf/10.1145/3648368)]
+- SignCLIP: Connecting Text and Sign Language by Contrastive Learning. [EMNLP-ccfb][[Paper](https://arxiv.org/pdf/2407.01264)]
+- Jointly Harnessing Prior Structures and Temporal Consistency for Sign Language Video Generation. [TOMM-ccfb][[Paper](https://dl.acm.org/doi/pdf/10.1145/3648368)]
 
 ### 2023
 - Ham2Pose: Animating Sign Language Notation into Pose Sequences. [CVPR-ccfa][[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Arkushin_Ham2Pose_Animating_Sign_Language_Notation_Into_Pose_Sequences_CVPR_2023_paper.pdf)]
