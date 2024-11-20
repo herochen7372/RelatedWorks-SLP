@@ -66,6 +66,7 @@ I am gathering these papers as literature for my PhD, and thought others may be 
 
 ## Other SLP Topic
 ### 2024
+- Uncertainty-aware Sign Language Video Retrieval with Probability Distribution Modeling. [ECCV-ccfb][[Paper](https://arxiv.org/pdf/2405.19689)]
 - SignCLIP: Connecting Text and Sign Language by Contrastive Learning. [EMNLP-ccfb][[Paper](https://arxiv.org/pdf/2407.01264)]
 - Jointly Harnessing Prior Structures and Temporal Consistency for Sign Language Video Generation. [TOMM-ccfb][[Paper](https://dl.acm.org/doi/pdf/10.1145/3648368)]
 
@@ -76,6 +77,11 @@ I am gathering these papers as literature for my PhD, and thought others may be 
 - ANONYSIGN: Novel Human Appearance Synthesis for Sign Language Video Anonymisation [ICAFGR-ccbc][[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9666984)]
 
 
+--- preprint ---
+Enhancing Sign Language Teaching: A Mixed Reality Approach for Immersive Learning and Multi-Dimensional Feedback.
+Improving Gloss-free Sign Language Translation by Reducing Representation Density
+Learning to Score Sign Language with Two-stage Method
+---
 
 # Reference
 - [1] https://github.com/BenSaunders27/Awesome-SLP
