@@ -78,9 +78,11 @@ I am gathering these papers as literature for my PhD, and thought others may be 
 
 
 --- preprint ---
-Enhancing Sign Language Teaching: A Mixed Reality Approach for Immersive Learning and Multi-Dimensional Feedback.
-Improving Gloss-free Sign Language Translation by Reducing Representation Density
-Learning to Score Sign Language with Two-stage Method
+
+- Enhancing Sign Language Teaching: A Mixed Reality Approach for Immersive Learning and Multi-Dimensional Feedback.
+- Improving Gloss-free Sign Language Translation by Reducing Representation Density
+- Learning to Score Sign Language with Two-stage Method
+
 ---
 
 # Reference
