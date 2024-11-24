@@ -77,7 +77,7 @@ I am gathering these papers as literature for my PhD, and thought others may be 
 - ANONYSIGN: Novel Human Appearance Synthesis for Sign Language Video Anonymisation [ICAFGR-ccbc][[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9666984)]
 
 
---- preprint ---
+## preprint 
 
 - Enhancing Sign Language Teaching: A Mixed Reality Approach for Immersive Learning and Multi-Dimensional Feedback.
 - Improving Gloss-free Sign Language Translation by Reducing Representation Density
