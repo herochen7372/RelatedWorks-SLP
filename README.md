@@ -64,6 +64,12 @@ I am gathering these papers as literature for my PhD, and thought others may be 
 
 
 
+## Sign Language Understanding
+### 2023
+- CiCo: Domain-Aware Sign Language Retrieval via Cross-Lingual Contrastive Learning [CVPR-ccfa][[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Bao_CiCo_Domain-Aware_Sign_Language_Retrieval_via_Cross-Lingual_Contrastive_Learning_CVPR_2023_paper.pdf)]
+
+
+
 ## Other SLP Topic
 ### 2024
 - Uncertainty-aware Sign Language Video Retrieval with Probability Distribution Modeling. [ECCV-ccfb][[Paper](https://arxiv.org/pdf/2405.19689)]
