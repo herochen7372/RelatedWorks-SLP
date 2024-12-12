@@ -71,7 +71,17 @@ I am gathering these papers as literature for my PhD, and thought others may be 
 ### 2023
 - CiCo: Domain-Aware Sign Language Retrieval via Cross-Lingual Contrastive Learning [CVPR-ccfa][[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Bao_CiCo_Domain-Aware_Sign_Language_Retrieval_via_Cross-Lingual_Contrastive_Learning_CVPR_2023_paper.pdf)]
 
+## Dataset
+### CSLR Datasets
+- Phoenix-2014T: Please follow [https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/).
 
+- CSL-Daily: Please follow [http://home.ustc.edu.cn/~zhouh156/dataset/csl-daily/](http://home.ustc.edu.cn/~zhouh156/dataset/csl-daily/).
+
+
+### ISLR Datasets
+- WLASL: Please follow [https://dxli94.github.io/WLASL/](https://dxli94.github.io/WLASL/).
+
+- MSASL: Please follow [https://www.microsoft.com/en-us/research/project/ms-asl/](https://www.microsoft.com/en-us/research/project/ms-asl/).
 
 ## Other SLP Topic
 ### 2024
