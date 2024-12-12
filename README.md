@@ -69,7 +69,7 @@ I am gathering these papers as literature for my PhD, and thought others may be 
 - Uncertainty-aware Sign Language Video Retrieval with Probability Distribution Modeling. [ECCV-ccfb][[Paper](https://arxiv.org/pdf/2405.19689)]
 - SignCLIP: Connecting Text and Sign Language by Contrastive Learning. [EMNLP-ccfb][[Paper](https://arxiv.org/pdf/2407.01264)]
 ### 2023
-- CiCo: Domain-Aware Sign Language Retrieval via Cross-Lingual Contrastive Learning [CVPR-ccfa][[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Bao_CiCo_Domain-Aware_Sign_Language_Retrieval_via_Cross-Lingual_Contrastive_Learning_CVPR_2023_paper.pdf)]
+- CiCo: Domain-Aware Sign Language Retrieval via Cross-Lingual Contrastive Learning [CVPR-ccfa][[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Bao_CiCo_Domain-Aware_Sign_Language_Retrieval_via_Cross-Lingual_Contrastive_Learning_CVPR_2023_paper.pdf)][[Code](https://github.com/FangyunWei/SLRT)]
 
 ## Dataset
 ### CSLR Datasets
