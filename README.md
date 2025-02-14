@@ -48,12 +48,13 @@ I am gathering these papers as literature for my PhD, and thought others may be 
 
 ## Sign Avater 
 ### 2024
-- Neural Sign Actors: A diffusion model for 3D sign language production from text. [CVPR-ccba][[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Baltatzis_Neural_Sign_Actors_A_Diffusion_Model_for_3D_Sign_Language_CVPR_2024_paper.pdf)]
+- Neural Sign Actors: A diffusion model for 3D sign language production from text. [CVPR-ccfa][[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Baltatzis_Neural_Sign_Actors_A_Diffusion_Model_for_3D_Sign_Language_CVPR_2024_paper.pdf)]
 - SignAvatars: A Large-scale 3D Sign Language Holistic Motion Dataset and Benchmark. [ECCV-ccfb][[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00653.pdf)]
 - A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars. [ECCV-ccfb][[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06499.pdf)]
-- SignAvatar: Sign Language 3D Motion Reconstruction and Generation. [ICAFGR-ccbc][[Paper](https://arxiv.org/pdf/2405.07974)]
-- A Comparative Study of Video-Based Human Representations for American Sign Language Alphabet Generation. [ICAFGR-ccbc][[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10582020)]
-- SynthSL: Expressive Humans for Sign Language Image Synthesis [ICAFGR-ccbc][[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10582038)]
+- SignAvatar: Sign Language 3D Motion Reconstruction and Generation. [ICAFGR-ccfc][[Paper](https://arxiv.org/pdf/2405.07974)]
+- A Comparative Study of Video-Based Human Representations for American Sign Language Alphabet Generation. [ICAFGR-ccfc][[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10582020)]
+- SynthSL: Expressive Humans for Sign Language Image Synthesis [ICAFGR-ccfc][[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10582038)]
+
 
 
 ### 2023
@@ -68,8 +69,18 @@ I am gathering these papers as literature for my PhD, and thought others may be 
 ### 2024
 - Uncertainty-aware Sign Language Video Retrieval with Probability Distribution Modeling. [ECCV-ccfb][[Paper](https://arxiv.org/pdf/2405.19689)]
 - SignCLIP: Connecting Text and Sign Language by Contrastive Learning. [EMNLP-ccfb][[Paper](https://arxiv.org/pdf/2407.01264)]
+
+- SEDS: Semantically Enhanced Dual-Stream Encoder for Sign Language Retrieval [ACM Multimedia][[Paper](https://arxiv.org/pdf/2407.16394)]
+  
 ### 2023
 - CiCo: Domain-Aware Sign Language Retrieval via Cross-Lingual Contrastive Learning [CVPR-ccfa][[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Bao_CiCo_Domain-Aware_Sign_Language_Retrieval_via_Cross-Lingual_Contrastive_Learning_CVPR_2023_paper.pdf)][[Code](https://github.com/FangyunWei/SLRT)]
+
+### 2021
+- PiSLTRc: Position-informed Sign Language Transformer with Content-aware Convolution [TMM-ccfb][[Paper](https://arxiv.org/pdf/2107.12600)]
+
+### Preprint
+- Scaling up Multimodal Pre-training for Sign Language Understanding [2024][[Paper](https://arxiv.org/pdf/2408.08544)]
+- C2RL: Content and Context RepresentationLearning for Gloss-free Sign Language Translation and Retrieval [2024][[Paper](https://arxiv.org/pdf/2408.09949)]
 
 ## Dataset
 ### CSLR Datasets
@@ -94,7 +105,8 @@ I am gathering these papers as literature for my PhD, and thought others may be 
 - ANONYSIGN: Novel Human Appearance Synthesis for Sign Language Video Anonymisation [ICAFGR-ccbc][[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9666984)]
 
 
-## preprint 
+## Othtrs
+- Improving Continuous Sign Language Recognition with Cross-Lingual Signs
 
 - Enhancing Sign Language Teaching: A Mixed Reality Approach for Immersive Learning and Multi-Dimensional Feedback.
 - Improving Gloss-free Sign Language Translation by Reducing Representation Density
