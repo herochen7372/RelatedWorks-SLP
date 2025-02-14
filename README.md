@@ -107,6 +107,7 @@ I am gathering these papers as literature for my PhD, and thought others may be 
 
 ## Othtrs
 - Improving Continuous Sign Language Recognition with Cross-Lingual Signs
+- SignVTCL: Multi-Modal Continuous Sign Language Recognition Enhanced by Visual-Textual Contrastive Learning
 
 - Enhancing Sign Language Teaching: A Mixed Reality Approach for Immersive Learning and Multi-Dimensional Feedback.
 - Improving Gloss-free Sign Language Translation by Reducing Representation Density
