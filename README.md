@@ -5,7 +5,11 @@ I am gathering these papers as literature for my PhD, and thought others may be 
 
 
 ## Sign Language Production
+### 2025
+- Diffusion-Based Continuous Sign Language Generation with Cluster-Specific Fine-Tuning and Motion-Adapted Transformer. [CVPR-ccfa][[Paper](https://openaccess.thecvf.com/content/CVPR2025W/SLRTP/papers/Rastgoo_Diffusion-Based_Continuous_Sign_Language_Generation_with_Cluster-Specific_Fine-Tuning_and_Motion-Adapted_CVPRW_2025_paper.pdf)]
+
 ### 2024
+- LLM-based Sign Language Production
 - T2S-GPT: Dynamic Vector Quantization for Autoregressive Sign Language Production from Text. [ACL-ccfa][[Paper](https://aclanthology.org/2024.acl-long.183.pdf)]
 - MS2SL: Multimodal Spoken Data-Driven Continuous Sign Language Production. [ACL-ccba][[Paper](https://aclanthology.org/2024.findings-acl.432.pdf)]
 - Unsupervised Sign Language Translation and Generation [ACL-ccba][[Paper](https://arxiv.org/pdf/2402.07726)][[Code](https://github.com/ZhengshengGuo/USLNet)]
