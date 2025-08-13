@@ -9,7 +9,6 @@ I am gathering these papers as literature for my PhD, and thought others may be 
 - Diffusion-Based Continuous Sign Language Generation with Cluster-Specific Fine-Tuning and Motion-Adapted Transformer. [CVPR-ccfa][[Paper](https://openaccess.thecvf.com/content/CVPR2025W/SLRTP/papers/Rastgoo_Diffusion-Based_Continuous_Sign_Language_Generation_with_Cluster-Specific_Fine-Tuning_and_Motion-Adapted_CVPRW_2025_paper.pdf)]
 
 ### 2024
-- LLM-based Sign Language Production
 - T2S-GPT: Dynamic Vector Quantization for Autoregressive Sign Language Production from Text. [ACL-ccfa][[Paper](https://aclanthology.org/2024.acl-long.183.pdf)]
 - MS2SL: Multimodal Spoken Data-Driven Continuous Sign Language Production. [ACL-ccba][[Paper](https://aclanthology.org/2024.findings-acl.432.pdf)]
 - Unsupervised Sign Language Translation and Generation [ACL-ccba][[Paper](https://arxiv.org/pdf/2402.07726)][[Code](https://github.com/ZhengshengGuo/USLNet)]
@@ -20,6 +19,8 @@ I am gathering these papers as literature for my PhD, and thought others may be 
 - Attentional bias for hands: Cascade dual‐decoder transformer for sign language production [IETCV-ccfc][[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/cvi2.12273)]
 - Select and Reorder: A Novel Approach for Neural Sign Language Production. [LREC-ccfb][[Paper](https://www.semanticscholar.org/reader/e2a56a27010a60fb9820c94adf8e361633d27fe1)] 
 - Sign Language Production With Latent Motion Transformer.[WACV 2024][[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Xie_Sign_Language_Production_With_Latent_Motion_Transformer_WACV_2024_paper.pdf)]
+- LLM-based Sign Language Production
+
 
 ### 2023
 - SignNet: Single Channel Sign Generation using Metric Embedded Learning. [ICAFGR-ccbc][[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10042711)]
