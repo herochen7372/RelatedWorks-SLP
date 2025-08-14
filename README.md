@@ -89,9 +89,13 @@ I am gathering these papers as literature for my PhD, and thought others may be 
 
 ## Dataset
 ### CSLR Datasets
-- Phoenix-2014T: Please follow [https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/).
+- Phoenix-2014T: Please follow [https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/). After preprocessing dataset, the condensed data set obtained is as follows:
 
-- CSL-Daily: Please follow [http://home.ustc.edu.cn/~zhouh156/dataset/csl-daily/](http://home.ustc.edu.cn/~zhouh156/dataset/csl-daily/).
+[https://huggingface.co/datasets/phoenix-pre.zip](https://huggingface.co/datasets/SignDiff/phoenix-pre.zip).
+
+- CSL-Daily: Please follow [http://home.ustc.edu.cn/~zhouh156/dataset/csl-daily/](http://home.ustc.edu.cn/~zhouh156/dataset/csl-daily/). After preprocessing dataset, the condensed data set obtained is as follows:
+
+[https://huggingface.co/datasets/How2Sign-pre.zip](https://huggingface.co/datasets/SignDiff/How2Sign-Diff.zip)
 
 
 ### ISLR Datasets
